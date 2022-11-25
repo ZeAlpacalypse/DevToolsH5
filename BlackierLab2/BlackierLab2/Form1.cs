@@ -44,7 +44,7 @@ namespace BlackierLab2
         {
             lblData.Text = lblTopic.Text + ". He just turned 2 years old. He is super snuggly in the mornings.\n " + "\n"+
                 "He loves to go outside.Sometimes in my spare time I will go walking through the woods with him.He doesnt go too far and like having company.\n " +"\n"+
-                "He aslo has two brothers he like to nag and wrestle with. Even if they dont want to all the time.";
+                "He aslo has two brothers he like to nag and wrestle with. Even if they dont want to all the time. All of my cats go nuts for canned food.";
 
             lblData.Show();
             picWeasley.Hide();
